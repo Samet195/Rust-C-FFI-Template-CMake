@@ -1,0 +1,10 @@
+build/debug/
+build/release/
+build/CACHEDIR.TAG
+build/.rustc_info.json
+Cargo.lock
+src/ffi/build/CMakeFiles/*
+src/ffi/build/CMakeCache.txt
+src/ffi/build/cmake_install.cmake
+src/ffi/build/*.a
+src/ffi/build/Makefile
